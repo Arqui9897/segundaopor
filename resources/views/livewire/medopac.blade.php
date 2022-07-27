@@ -1,5 +1,5 @@
 <div>
-    <h1>Todas Las Personas</h1>
+    <h1>por tipo de persona medico o paciente</h1>
     <table>
         <thead >
             <table class="table" >
